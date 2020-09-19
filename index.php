@@ -75,7 +75,7 @@
 					</div>
 					<div class="col-md-6">
 						<label for="code_type"><h5>Encoder:</h5></label>
-						<button class="btn btn-block btn-outline-dark" type="submit">Generate Codes</button>
+						<button class="btn btn-block btn-outline-dark" type="submit">Generate Code</button>
 					</div>
 				</div>
 				<br>
