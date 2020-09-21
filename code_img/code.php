@@ -9,7 +9,7 @@
 		$formats = 'f='.$format;
 		$symbology = 's='.$symbol;
 		$data = 'd='.$content;
-		$options = '&w=200&h=75&ts=3&th=40';
+		//$options = '&w=200&h=75&ts=3&th=40';
 		$code_url = $path.'?'.$formats.'&'.$symbology.'&'.$data;
 	}
 ?>
